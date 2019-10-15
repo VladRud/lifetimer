@@ -1,0 +1,5 @@
+export const UserTypes = {
+  USER_GET: 'USER_GET',
+  USER_GET_SUCCESS: 'USER_GET_SUCCESS',
+  USER_GET_FAIL: 'USER_GET_FAIL',
+};
